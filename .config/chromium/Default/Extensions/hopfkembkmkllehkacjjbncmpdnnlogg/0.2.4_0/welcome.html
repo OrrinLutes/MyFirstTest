@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>WELCOME!</title>
+	<link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+	<style>
+		html, body {
+		    margin: 0;
+		    padding: 0;
+		    width: 100%;
+		    height: 100%;
+		    display: table;
+			color: #333;
+			font-size: 1.05em;
+			background-image: url(images/bg.png);
+			font-family: 'Lato', sans-serif;
+		}
+		.outer {
+		    display: table-cell;
+		    vertical-align: middle;
+		}
+		.inner {
+			width: 50%;
+		    margin: 0 auto;
+		    padding: 20px;
+		    background: #EEE;
+		    box-shadow: 0 0 0.5em black;
+		}
+		.logo {
+			text-align: right;
+		}
+		.err-info {
+			display: none;
+			color: red;
+		}
+		button {
+			font-family: Lato;
+			font-weight: bold;
+			font-size: 1.1em;
+			padding: 0.5em 2em;
+		}
+	</style>
+</head>
+<body>
+	<div class="outer">
+	<div class="inner">
+		<div class="logo"><img src="images/icon-128.png"></div>
+
+		<h4>Dear user,</h4>
+		<p>Thank you very much for installing <strong>Simple Audio Recorder</strong></p>
+		<p>If installation was successful you can see the popup where your Chrome is asking you to allow <strong>Simple Audio Recorder</strong> to use your mic. Please allow, read the small description below and turn the extension on.</p>
+		<p>The extension's functionality is dead simple yet powerful and useful. Click on the mic icon that lives beside the address bar. After that recording of your voice will begin and you will see a small timer that informs you about elapsed time. Click it one more time - the recording will stop and there will be a prompt that suggests you to save your recordings as an audio file.</p>
+		<p id="errInfo" class="err-info">Something went wrong with your installation. Most likely you have no mic on your machine. Please set it up and reload your Chrome.</p>
+		<button id="reloader">Turn on</button>
+		<p style="text-align:right;">Developed by Sergey Chernykh</p>
+		<script src="js/welcome.min.js"></script>
+	</div>
+	</div>
+</body>
+</html>

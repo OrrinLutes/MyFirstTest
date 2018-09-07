@@ -1,0 +1,78 @@
+{
+   "checksum": "24649ff10dc4dc715807873af4e76add",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13101867065600710",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13171650854814168"
+            },
+            "name": "Google Hangouts",
+            "sync_transaction_version": "7",
+            "type": "url",
+            "url": "https://hangouts.google.com/"
+         }, {
+            "date_added": "13104543172745286",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13180553075018903"
+            },
+            "name": "YouTube",
+            "sync_transaction_version": "8",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13105672295100090",
+            "id": "7",
+            "name": "Netflix",
+            "sync_transaction_version": "9",
+            "type": "url",
+            "url": "https://www.netflix.com/browse"
+         }, {
+            "date_added": "13170463607676520",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13180728319890882"
+            },
+            "name": "IC",
+            "sync_transaction_version": "10",
+            "type": "url",
+            "url": "https://infinitecampus.naperville203.org/campus/portal/main.xsl?rID=0.29066257365949233&lang=en"
+         }, {
+            "date_added": "13171522087693437",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13180725128516795"
+            },
+            "name": "gmail",
+            "sync_transaction_version": "11",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         } ],
+         "date_added": "13180812527982643",
+         "date_modified": "13171522087693437",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13180812527982675",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "11",
+      "synced": {
+         "children": [  ],
+         "date_added": "13180812527982692",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

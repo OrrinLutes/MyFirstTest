@@ -1,0 +1,21 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "images/icon-16.png",
+      "default_title": "Click to start recording"
+   },
+   "description": "The extension records your voice and saves the recordings as an audio file",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "48": "images/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvP1LuBqyTq5iZ/EH5Eq2yY2GUIadfQcjZjNqQVO5nfA35OGzTFtIJ0488BlSn4MlG/uWXeaByGUBFS1ADOxwNVb8OaloSz6wUJBopiO/ldpz8He9mvRNJ9+SbC7RcHaQIlAzMwOqk1g0IyRxZQiEQbY+4goFg9D2p/4k3hTTtrwGIUnP8eZOPBbo14Hl52FNYwJhs77o+b+5hNjJNqV2QvAFu2TKux0HOL5iz0Im3RUqwqi6aNVoPxszccUAkxPlxBqYw+1+M5tEtV7tUwfAkNWwMUAvVdAZ2+Zi4GZFnvTcj4RL5afa/s2Z4Ikp/5eYN4z8aGH7BUaeA9+547DeVwIDAQAB",
+   "manifest_version": 2,
+   "name": "Simple Audio Recorder",
+   "permissions": [ "tabs", "activeTab", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.4"
+}

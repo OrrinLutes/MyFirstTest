@@ -913,6 +913,28 @@ vim
 Utility;TextEditor
 Text,editor
 
++chrome-apps
+Chromium Apps
+
+chromium-browser
+chrome-apps.directory
+0
+0
+-chrome-knipolnnllmklapflnccelgolnpehhpl-Default.desktop
+Google Hangouts
+
+chrome-knipolnnllmklapflnccelgolnpehhpl-Default
+
+6
+
+/usr/bin/chromium-browser --profile-directory=Default --app-id=knipolnnllmklapflnccelgolnpehhpl
+0
+0
+
+
+
+
+
 +Education
 Education
 
