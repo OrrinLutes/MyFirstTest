@@ -63,3 +63,24 @@ git push origin
 git push -u origin master
 ls
 cd BlueJ
+git status
+git add --all
+git commit -am "parking EX: 15.10"
+git push
+ls
+cd BlueJ
+git status
+git add --all
+git commit -a "9/10/18"
+git commit -am "9/10/18"
+git status
+git remote add origin https://github.com/OrrinLutes/My_Mom.git
+git push
+git push
+git push
+git push -u origin master
+git push -u origin master
+git remote add origin https://github.com/OrrinLutes/My_Mom.git
+git push
+git remote add origin https://github.com/OrrinLutes/MyFirstTest.git
+git push -u origin MyFirstTest

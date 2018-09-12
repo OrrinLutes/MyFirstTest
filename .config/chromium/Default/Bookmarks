@@ -16,10 +16,10 @@
             "date_added": "13104543172745286",
             "id": "6",
             "meta_info": {
-               "last_visited_desktop": "13180553075018903"
+               "last_visited_desktop": "13181010380220853"
             },
             "name": "YouTube",
-            "sync_transaction_version": "8",
+            "sync_transaction_version": "12",
             "type": "url",
             "url": "https://www.youtube.com/"
          }, {
@@ -33,25 +33,25 @@
             "date_added": "13170463607676520",
             "id": "8",
             "meta_info": {
-               "last_visited_desktop": "13180728319890882"
+               "last_visited_desktop": "13181020258301000"
             },
             "name": "IC",
-            "sync_transaction_version": "10",
+            "sync_transaction_version": "12",
             "type": "url",
             "url": "https://infinitecampus.naperville203.org/campus/portal/main.xsl?rID=0.29066257365949233&lang=en"
          }, {
             "date_added": "13171522087693437",
             "id": "9",
             "meta_info": {
-               "last_visited_desktop": "13180725128516795"
+               "last_visited_desktop": "13181015281687143"
             },
             "name": "gmail",
-            "sync_transaction_version": "11",
+            "sync_transaction_version": "12",
             "type": "url",
             "url": "https://mail.google.com/mail/u/0/#inbox"
          } ],
          "date_added": "13180812527982643",
-         "date_modified": "13171522087693437",
+         "date_modified": "13180815213292663",
          "id": "1",
          "name": "Bookmarks bar",
          "type": "folder"
@@ -64,7 +64,7 @@
          "name": "Other bookmarks",
          "type": "folder"
       },
-      "sync_transaction_version": "11",
+      "sync_transaction_version": "12",
       "synced": {
          "children": [  ],
          "date_added": "13180812527982692",

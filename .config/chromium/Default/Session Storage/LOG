@@ -1,3 +1,6 @@
-2018/09/07-12:12:59.283 865 Reusing MANIFEST /home/pi/.config/chromium/Default/Session Storage/MANIFEST-000001
-2018/09/07-12:12:59.285 865 Recovering log #3
-2018/09/07-12:12:59.286 865 Reusing old log /home/pi/.config/chromium/Default/Session Storage/000003.log 
+2018/09/11-12:38:10.065 1015 Reusing MANIFEST /home/pi/.config/chromium/Default/Session Storage/MANIFEST-000001
+2018/09/11-12:38:10.066 1015 Recovering log #3
+2018/09/11-12:38:10.070 1015 Reusing old log /home/pi/.config/chromium/Default/Session Storage/000003.log 
+2018/09/12-12:46:35.639 2185 Level-0 table #5: started
+2018/09/12-12:46:35.653 2185 Level-0 table #5: 17145 bytes OK
+2018/09/12-12:46:35.660 2185 Delete type=0 #3
