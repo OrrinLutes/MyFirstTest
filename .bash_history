@@ -84,3 +84,9 @@ git remote add origin https://github.com/OrrinLutes/My_Mom.git
 git push
 git remote add origin https://github.com/OrrinLutes/MyFirstTest.git
 git push -u origin MyFirstTest
+git status
+git add --all
+git commit
+git commit -am "Finished Bottom Text"
+git status
+git push

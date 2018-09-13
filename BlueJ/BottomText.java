@@ -28,6 +28,7 @@ public class BottomText
                 counter++;
             }
             System.out.println("There were " + counter + " diffrent words in that speech.");
+            
         }
         catch(FileNotFoundException e)
         {

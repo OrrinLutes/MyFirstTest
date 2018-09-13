@@ -98,91 +98,42 @@ xprop:  no such property "_NET_DESKTOP_NAMES"
 ** Message: app.vala:76: Launching lxpanel 
 ** Message: app.vala:76: Launching pcmanfm 
 
-** (lxsession:456): WARNING **: app.vala:86: Failed to execute child process "xscreensaver" (No such file or directory)
+** (lxsession:467): WARNING **: app.vala:86: Failed to execute child process "xscreensaver" (No such file or directory)
 
-** (lxsession:456): WARNING **: app.vala:87: Error when launching xscreensaver
+** (lxsession:467): WARNING **: app.vala:87: Error when launching xscreensaver
 ** Message: app.vala:76: Launching point-rpi 
 ** Message: options.vala:107: Create build-in Clipboard
 ** Message: main.vala:442: Check keymap_mode (null)
 ** Message: app.vala:76: Launching /usr/bin/ssh-agent 
-SSH_AUTH_SOCK=/tmp/ssh-0AU3T5kjzeaj/agent.544; export SSH_AUTH_SOCK;
-SSH_AGENT_PID=547; export SSH_AGENT_PID;
-echo Agent pid 547;
+SSH_AUTH_SOCK=/tmp/ssh-pYHL5TD5VNm8/agent.606; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=608; export SSH_AGENT_PID;
+echo Agent pid 608;
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
 ** Message: app.vala:130: point-rpi exit with this type of exit: 0
 ** Message: app.vala:139: Exit normal, don't reload
 ** Message: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
-** Message: x-terminal-emulator has very limited support, consider choose another terminal
 ** Message: x-terminal-emulator has very limited support, consider choose another terminal
 Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
 ** Message: Connecting ...
 ** Message: Status changed to down
 
-** (lxpanel:538): CRITICAL **: dhcpcd_open: Inappropriate ioctl for device
+** (lxpanel:585): CRITICAL **: dhcpcd_open: Resource temporarily unavailable
 ** Message: bt: Name org.bluez owned on DBus
 ** Message: bt: New agent manager found
 ** Message: bt: New adapter found
 ** Message: Status changed to opened
 ** Message: Connected to dhcpcd-6.11.5
-** Message: Status changed to connecting
+** Message: Status changed to connected
 ** Message: wlan0: Associated with BYOD-Student
+** Message: wlan0: Configured 10.1.126.59/20
 ** Message: eth0: Link is down
 ** Message: wlan0: WPA status connected
 ** Message: wlan0: Received scan results
 ** Message: va: Name org.bluez owned on DBus
-** Message: wlan0: Configured 10.1.124.152/20
-** Message: Status changed to connected
-bluej
-** Message: wlan0: Received scan results
-/usr/bin/x-www-browser 
- --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
-Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
-[971:971:0911/122221.636241:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
-[971:1178:0911/122223.101168:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
-[971:1023:0911/122223.434370:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -109
-[971:971:0911/122224.882875:ERROR:background_mode_manager_aura.cc(13)] Not implemented reached in virtual void BackgroundModeManager::EnableLaunchOnStartup(bool)
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[1183:1183:0911/122226.367143:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
-[971:971:0911/122236.568197:ERROR:display_info_provider_aura.cc(31)] Not implemented reached in virtual void extensions::DisplayInfoProviderAura::UpdateDisplayUnitInfoForPlatform(const display::Display &, extensions::api::system_display::DisplayUnitInfo *)
-[971:1023:0911/122246.710464:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -109
-[971:971:0911/122259.881960:ERROR:account_tracker.cc(278)] OnGetTokenFailure: Connection failed (-109).
-[971:971:0911/122259.882182:ERROR:account_tracker.cc(278)] OnGetTokenFailure: Connection failed (-109).
-** Message: wlan0: Received scan results
-[971:1023:0911/122341.982479:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -109
-** Message: wlan0: Received scan results
-[971:1023:0911/122502.994292:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -109
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[971:1023:0911/122809.589529:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -109
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-[971:1023:0911/123353.074066:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -109
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-/usr/bin/x-www-browser 
- --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
-Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
-[1755:1755:0911/123731.290469:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
-Created new window in existing browser session.
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
 bluej
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
-pcmanfm 
-leafpad '/home/pi/BlueJ/Trump.txt' 
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
@@ -190,7 +141,43 @@ leafpad '/home/pi/BlueJ/Trump.txt'
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
-bluej
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
 lxterminal
 ** Message: wlan0: Received scan results
