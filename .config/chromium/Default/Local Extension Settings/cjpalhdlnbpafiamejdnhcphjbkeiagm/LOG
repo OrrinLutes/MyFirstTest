@@ -1,20 +1,5 @@
-2018/09/13-14:03:03.110 987 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2018/09/13-14:03:03.111 987 Recovering log #13
-2018/09/13-14:03:03.114 987 Reusing old log /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000013.log 
-2018/09/18-11:44:21.520 1876 Level-0 table #17: started
-2018/09/18-11:44:22.229 1876 Level-0 table #17: 2574157 bytes OK
-2018/09/18-11:44:22.256 1876 Delete type=0 #13
-2018/09/18-12:00:23.388 1876 Level-0 table #19: started
-2018/09/18-12:00:23.792 1876 Level-0 table #19: 1815703 bytes OK
-2018/09/18-12:00:23.798 1876 Delete type=0 #16
-2018/09/18-12:00:23.805 1876 Compacting 4@0 + 1@1 files
-2018/09/18-12:00:24.390 1876 Generated table #20@0: 10 keys, 2201550 bytes
-2018/09/18-12:00:25.075 1876 Generated table #21@0: 12 keys, 2107183 bytes
-2018/09/18-12:00:25.192 1876 Generated table #22@0: 9 keys, 387685 bytes
-2018/09/18-12:00:25.192 1876 Compacted 4@0 + 1@1 files => 4696418 bytes
-2018/09/18-12:00:25.198 1876 compacted to: files[ 0 3 1 0 0 0 0 ]
-2018/09/18-12:00:25.199 1876 Delete type=2 #19
-2018/09/18-12:00:25.203 1876 Delete type=2 #14
-2018/09/18-12:00:25.206 1876 Delete type=2 #17
-2018/09/18-12:00:25.211 1876 Delete type=2 #8
-2018/09/18-12:00:25.213 1876 Delete type=2 #11
+2018/09/18-12:58:38.213 1524 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2018/09/18-12:58:38.214 1524 Recovering log #18
+2018/09/18-12:58:38.643 1524 Level-0 table #24: started
+2018/09/18-12:58:39.783 1524 Level-0 table #24: 2474545 bytes OK
+2018/09/18-12:58:40.222 1524 Delete type=0 #18
