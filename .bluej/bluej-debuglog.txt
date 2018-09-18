@@ -1,4 +1,4 @@
-BlueJ run started: Thu Sep 13 14:00:36 CDT 2018
+BlueJ run started: Tue Sep 18 12:22:09 CDT 2018
 BlueJ version 3.1.7b
 Java version 1.8.0_65
 Virtual machine: Java HotSpot(TM) Client VM 25.65-b01 (Oracle Corporation)
@@ -9,6 +9,6 @@ Detected language "english" based on iso639-2 code "eng"
 Internal error: Update stats failed, HTTP response code: 307
 Opening project: /home/pi/BlueJ
 Problem code: 307
-1536865243614: Listening for JDWP connection on address: 127.0.0.1:33463
+1537291335778: Listening for JDWP connection on address: 127.0.0.1:46233
 Connected to debug VM via dt_socket transport...
 Communication with debug VM fully established.

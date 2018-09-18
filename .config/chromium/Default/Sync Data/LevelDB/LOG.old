@@ -1,3 +1,3 @@
-2018/09/13-12:22:10.731 2247 Reusing MANIFEST /home/pi/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2018/09/13-12:22:10.732 2247 Recovering log #3
-2018/09/13-12:22:10.737 2247 Reusing old log /home/pi/.config/chromium/Default/Sync Data/LevelDB/000003.log 
+2018/09/13-14:02:58.071 984 Reusing MANIFEST /home/pi/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2018/09/13-14:02:58.082 984 Recovering log #3
+2018/09/13-14:02:58.088 984 Reusing old log /home/pi/.config/chromium/Default/Sync Data/LevelDB/000003.log 

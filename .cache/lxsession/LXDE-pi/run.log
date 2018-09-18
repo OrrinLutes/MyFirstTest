@@ -84,11 +84,11 @@
 ** Message: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE-pi
 ** Message: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
 ** Message: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
-xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
-xprop:  no such property "_NET_DESKTOP_NAMES"
 ** Message: options.vala:164: Activate xsettings_manager build-in
 ** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
 ** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
 ** Message: app.vala:721: polkit separate
 ** Message: app.vala:721: polkit separate
 ** Message: app.vala:76: Launching lxpolkit 
@@ -98,16 +98,16 @@ xprop:  no such property "_NET_DESKTOP_NAMES"
 ** Message: app.vala:76: Launching lxpanel 
 ** Message: app.vala:76: Launching pcmanfm 
 
-** (lxsession:466): WARNING **: app.vala:86: Failed to execute child process "xscreensaver" (No such file or directory)
+** (lxsession:465): WARNING **: app.vala:86: Failed to execute child process "xscreensaver" (No such file or directory)
 
-** (lxsession:466): WARNING **: app.vala:87: Error when launching xscreensaver
+** (lxsession:465): WARNING **: app.vala:87: Error when launching xscreensaver
 ** Message: app.vala:76: Launching point-rpi 
 ** Message: options.vala:107: Create build-in Clipboard
 ** Message: main.vala:442: Check keymap_mode (null)
 ** Message: app.vala:76: Launching /usr/bin/ssh-agent 
-SSH_AUTH_SOCK=/tmp/ssh-sv3F0Yo1BSJE/agent.614; export SSH_AUTH_SOCK;
-SSH_AGENT_PID=621; export SSH_AGENT_PID;
-echo Agent pid 621;
+SSH_AUTH_SOCK=/tmp/ssh-YF6NOrIfatOw/agent.610; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=617; export SSH_AGENT_PID;
+echo Agent pid 617;
 ** Message: app.vala:130: point-rpi exit with this type of exit: 0
 ** Message: app.vala:139: Exit normal, don't reload
 ** Message: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
@@ -117,77 +117,74 @@ Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.
 ** Message: Connecting ...
 ** Message: Status changed to down
 
-** (lxpanel:586): CRITICAL **: dhcpcd_open: Resource temporarily unavailable
+** (lxpanel:594): CRITICAL **: dhcpcd_open: Resource temporarily unavailable
 ** Message: bt: Name org.bluez owned on DBus
 ** Message: bt: New agent manager found
 ** Message: bt: New adapter found
 ** Message: Status changed to opened
 ** Message: Connected to dhcpcd-6.11.5
-** Message: Status changed to connecting
+** Message: Status changed to connected
 ** Message: wlan0: Associated with BYOD-Student
+** Message: wlan0: Configured 10.1.126.104/20
 ** Message: eth0: Link is down
 ** Message: wlan0: WPA status connected
 ** Message: wlan0: Received scan results
 ** Message: va: Name org.bluez owned on DBus
-** Message: wlan0: Configured 10.3.112.154/20
-** Message: Status changed to connected
-** Message: wlan0: Received scan results
 bluej
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+pcmanfm 
+** Message: wlan0: Received scan results
+gpicview '/home/pi/BlueJ/Flood Fill pic.jpg' 
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+pcmanfm 
+gpicview '/home/pi/BlueJ/Flood Fill pic.jpg' 
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results
 /usr/bin/x-www-browser 
  --disable-quic --enable-tcp-fast-open --disable-gpu-compositing --ppapi-flash-path=/usr/lib/chromium-browser/libpepflashplayer.so --ppapi-flash-args=enable_stagevideo_auto=0 --ppapi-flash-version=
 Fontconfig warning: "/etc/fonts/fonts.conf", line 160: blank doesn't take any effect anymore. please remove it from your fonts.conf
-[941:941:0913/140256.099623:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
-[941:1160:0913/140257.653200:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
-[941:993:0913/140257.967089:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -109
-[941:941:0913/140259.393460:ERROR:background_mode_manager_aura.cc(13)] Not implemented reached in virtual void BackgroundModeManager::EnableLaunchOnStartup(bool)
+[1481:1481:0918/125831.103410:ERROR:gpu_process_transport_factory.cc(1029)] Lost UI shared context.
+[1481:1688:0918/125832.646544:ERROR:object_proxy.cc(626)] Failed to call method: org.freedesktop.Notifications.GetCapabilities: object_path= /org/freedesktop/Notifications: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+[1481:1533:0918/125832.974645:ERROR:connection_factory_impl.cc(379)] Failed to connect to MCS endpoint with error -109
+[1481:1533:0918/125833.031612:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+[1481:1481:0918/125834.528956:ERROR:background_mode_manager_aura.cc(13)] Not implemented reached in virtual void BackgroundModeManager::EnableLaunchOnStartup(bool)
 ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[1164:1164:0913/140300.669650:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
-[941:941:0913/140303.935872:ERROR:display_info_provider_aura.cc(31)] Not implemented reached in virtual void extensions::DisplayInfoProviderAura::UpdateDisplayUnitInfoForPlatform(const display::Display &, extensions::api::system_display::DisplayUnitInfo *)
+[1694:1694:0918/125835.597283:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1481:1481:0918/125841.077435:ERROR:display_info_provider_aura.cc(31)] Not implemented reached in virtual void extensions::DisplayInfoProviderAura::UpdateDisplayUnitInfoForPlatform(const display::Display &, extensions::api::system_display::DisplayUnitInfo *)
 ** Message: wlan0: Received scan results
-[941:993:0913/140353.722032:ERROR:ssl_client_socket_impl.cc(1147)] handshake failed; returned -1, SSL error code 1, net_error -101
-[941:993:0913/140354.211977:ERROR:ssl_client_socket_impl.cc(1147)] handshake failed; returned -1, SSL error code 1, net_error -101
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
-** Message: wlan0: Received scan results
+[1481:1533:0918/125855.761077:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
 ** Message: wlan0: Received scan results
 lxterminal
+** Message: wlan0: Received scan results
 ** Message: wlan0: Received scan results

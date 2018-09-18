@@ -93,3 +93,8 @@ git push
 git status
 git add --all
 git commit -am "finished driveway"
+git status
+git add --all
+git commit -am "begining of floodfill"
+git status 
+git push
