@@ -7,7 +7,7 @@
  */
 public class Program1
 {
-    public void String(ARGS)
+    public static void main(String args[])
     {
         System.out.print("Hey It's Ja Boi Pi");
     }

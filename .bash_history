@@ -90,3 +90,6 @@ git commit
 git commit -am "Finished Bottom Text"
 git status
 git push
+git status
+git add --all
+git commit -am "finished driveway"
